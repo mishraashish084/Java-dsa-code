@@ -10,7 +10,7 @@ public class GcdNumber{
         }
        else
         {
-            b=b-a;
+            b=b%a;
         }
 
     }

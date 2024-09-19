@@ -18,7 +18,6 @@ public class Rotate1Place {
             System.out.print(a[i] + " ");
         }
         
-        // Print a newline at the end to avoid prompt overlap
-        System.out.println();
+      
     }
 }
